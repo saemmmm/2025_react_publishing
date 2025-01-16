@@ -1,0 +1,33 @@
+.kakao {
+  background-color: #fee500;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 150px;
+  padding-right: 150px;
+  font-size: 20px;
+  border: none;
+  border-radius: 6px;
+}
+
+.kakao > i {
+  margin-right: 6px;
+  font-size: 22px;
+}
+
+.apple {
+  background-color: white;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 150px;
+  padding-right: 150px;
+  font-size: 20px;
+  border-radius: 6px;
+  border: 1px solid #efefef;
+}
+
+.apple > i {
+  margin-right: 6px;
+  font-size: 22px;
+}
