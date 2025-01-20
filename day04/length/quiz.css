@@ -1,0 +1,29 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.box {
+  width: 100%;
+  height: 20%;
+}
+
+.mint {
+  background-color: rgb(163, 255, 224);
+}
+
+.skyblue {
+  background-color: rgb(178, 233, 255);
+}
+
+.blue {
+  background-color: rgb(137, 137, 255);
+}
+
+.violet {
+  background-color: rgb(180, 99, 255);
+}
+
+.grey {
+  background-color: rgb(233, 231, 231);
+}
