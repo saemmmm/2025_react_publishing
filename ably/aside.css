@@ -1,0 +1,20 @@
+aside {
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+}
+
+aside > .recruit {
+  border: none;
+  border-radius: 10px;
+  background-color: #ff5160;
+  color: white;
+  padding: 18px 14px;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+aside > .recruit:hover {
+  background-color: #db3b57;
+  cursor: pointer;
+}
